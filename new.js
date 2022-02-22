@@ -1,0 +1,1 @@
+window.alert("It's the worst hostel you can ever get in your life.")

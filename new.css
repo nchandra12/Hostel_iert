@@ -1,0 +1,42 @@
+
+.heading{
+    border: 5em;
+    color: white;
+    font-size: 5em;
+    font-family: Akaya Telivigala;
+    background-color: rgb(83, 2, 79);
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+}
+body{
+    background-color: #eaeaea;
+}
+.content{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 4em;
+    padding-left: 10em;
+
+  }
+
+  .grid-item {
+    box-shadow: -6px -6px 26px 0 rgb(255 255 255 / 83%);
+    background: #e1e1e1;
+    margin-top: 1em;
+    border: 1px solid rgba(255,255,255,0.20);
+    border-radius: 12px;
+    box-shadow: 6px 6px 16px 0 rgb(181 178 174 / 99%);
+    width: 280px;
+    height: 80px;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 1.5em;
+}
